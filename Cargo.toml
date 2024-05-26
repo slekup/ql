@@ -1,6 +1,8 @@
 [package]
 name = "ql"
+description = "Experimental Game Engine"
 version = "0.0.1"
 edition = "2021"
+license = "GPL-3.0"
 
 [dependencies]
